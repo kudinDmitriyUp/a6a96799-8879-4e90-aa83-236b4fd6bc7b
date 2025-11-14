@@ -20,7 +20,7 @@ export default function Home() {
       borderRadius="sharp"
       contentWidth="large"
       sizing="large"
-      background="fluid"
+      background="none"
       cardStyle="gradient-bordered"
       primaryButtonStyle="radial-glow"
       secondaryButtonStyle="solid"
