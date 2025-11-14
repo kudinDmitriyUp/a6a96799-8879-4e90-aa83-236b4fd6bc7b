@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -101,7 +101,7 @@ export default function Home() {
           description="Meet Vera and Bennet, two souls navigating their darkest moments"
           textboxLayout="default"
           gridVariant="uniform-all-items-equal"
-          animationType="fade-in"
+          animationType="slide-up"
           members={[
             {
               id: "1",
